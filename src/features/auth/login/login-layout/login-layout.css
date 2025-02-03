@@ -20,6 +20,7 @@
 .login_layout_card {
     max-width: 720px;
     background-color: #121212;
+    overflow-y: auto;
 }
 
 .buttons_container button{
