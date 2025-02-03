@@ -1,0 +1,16 @@
+/*
+ * Project:      spottify-clone
+ * Developed by: Juan David Pelaez Cumbe
+ * Date:         30/01/25
+ * Module name:  header
+ * File name:    header.tsx
+ * IDE:          WebStorm
+ */
+
+
+.header_container {
+    display: flex;
+    justify-content: center;
+    max-height: 4rem;
+    width: 100%;
+}

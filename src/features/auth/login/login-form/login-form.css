@@ -1,0 +1,9 @@
+.form_password {
+    padding-right: 24px;
+}
+
+.form_icon_float {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
